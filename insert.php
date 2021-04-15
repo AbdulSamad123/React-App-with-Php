@@ -16,7 +16,7 @@
    }
    else
    {
-       $Message="Server Error please try later";
+       $Message="Error please try later";
    }
 
    $Response[]=array("Message"=>$Message);
